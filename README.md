@@ -56,17 +56,9 @@ wincdu is tested successfully with local directories. You should test and verify
 
 ## Links
 
-- **wincdu homepage**: https://itefix.net/wincdu
-- **wincdu repository**: https://github.com/itefixnet/wincdu
 - **Ncdu homepage**: https://dev.yorhel.nl/ncdu
 - **Mintty homepage**: https://mintty.github.io/
 - **Cygwin homepage**: http://www.cygwin.com/
-
-## Support
-
-Support and issue tracking are handled via GitHub Issues:
-
-https://github.com/itefixnet/wincdu/issues
 
 ## License
 
