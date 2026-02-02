@@ -1,3 +1,4 @@
+![wincdu](wincdu.png)
 # wincdu - Ncdu for Windows
 
 wincdu is a packaging of Ncdu for Windows systems. It provides a self-contained Cygwin-based environment with Ncdu and Mintty terminal emulator already included, offering a ready-to-use disk usage analyzer for Windows.
