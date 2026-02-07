@@ -14,7 +14,7 @@ All notable changes to this project will be documented in this file.
 - cygwin 3.6.6
 - create tmp directory
 
-[1.0.3]: https://github.com/itefixnet/itmux/releases/tag/v1.0.3
+[1.0.3]: https://github.com/itefixnet/wincdu/releases/tag/v1.0.3
 
 ## [1.0.2] - 2025-11-04
 
